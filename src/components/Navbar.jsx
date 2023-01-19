@@ -1,6 +1,8 @@
 function Navbar(){
-    return(
-<nav>LAB - WikiCountries</nav>
+    return(    
+    <nav class="navbar navbar-light bg-light">
+    <span class="navbar-brand mb-0 h1">LAB - WikiCountries</span>
+    </nav>
     )
 };
 
